@@ -1,0 +1,7 @@
+H:\C#\Txt2Srt\Txt2Srt\bin\Debug\Txt2Srt.exe.config
+H:\C#\Txt2Srt\Txt2Srt\bin\Debug\Txt2Srt.exe
+H:\C#\Txt2Srt\Txt2Srt\bin\Debug\Txt2Srt.pdb
+H:\C#\Txt2Srt\Txt2Srt\obj\Debug\Txt2Srt.csproj.AssemblyReference.cache
+H:\C#\Txt2Srt\Txt2Srt\obj\Debug\Txt2Srt.csproj.CoreCompileInputs.cache
+H:\C#\Txt2Srt\Txt2Srt\obj\Debug\Txt2Srt.exe
+H:\C#\Txt2Srt\Txt2Srt\obj\Debug\Txt2Srt.pdb
